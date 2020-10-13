@@ -2,16 +2,20 @@
 
 ## Sobre o Logo
 
-LOG,O é uma aplicação web desenvolvida para controle de logistico e Operacional:
+LOG,O ï¿½ uma aplicaï¿½ï¿½o web desenvolvida para controle de logistico e Operacional:
 
-- [Simples, rápido e eficiente](http://logistica.azevedoseg.com/).
+- [Simples, rï¿½pido e eficiente](http://logistica.azevedoseg.com/).
 - Controle entrada e saida de caminhoes, veiculos e pedestre.
 - Fica facil direcionar a doca de descarga e carregamento.
 - Em breve controle de pesagem.
 
 ## Como testar ?
 
-Clique no botão abaixo e faça o teste da aplicação.
+Clique no botï¿½o abaixo e faï¿½a o teste da aplicaï¿½ï¿½o.
+
+para logar utilize:
+usuario: usuario.teste
+senha: abcd1234
 
 <p align="center">
 
@@ -21,6 +25,6 @@ Clique no botão abaixo e faça o teste da aplicação.
 
 ## License
 
-Aplicação desenvolvida por [Victor Azevedo](http://www.linkedin.com/in/v1ct0r-4z3v3d0).
+Aplicaï¿½ï¿½o desenvolvida por [Victor Azevedo](http://www.linkedin.com/in/v1ct0r-4z3v3d0).
 
 Usando FrameWorks livres como [Codeigniter](https://codeigniter.com/) e [Bootstrap](https://getbootstrap.com/).
