@@ -75,7 +75,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'27.0.0.1',
+	'hostname' => '212.1.211.151',
 	'username' => 'u897755614_gradehub',
 	'password' => 'corte99100wc',
 	'database' => 'u897755614_gradehub',
